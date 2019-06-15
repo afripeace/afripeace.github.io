@@ -1412,11 +1412,11 @@ body {
 .cid-rtoVskMfvg .navbar {
   min-height: 77px;
   transition: all .3s;
-  background: #232323;
+  background: #096693;
 }
 .cid-rtoVskMfvg .navbar.opened {
   transition: all .3s;
-  background: #232323 !important;
+  background: #096693 !important;
 }
 .cid-rtoVskMfvg .navbar .dropdown-item {
   padding: .235rem 1.5rem;
@@ -1518,7 +1518,7 @@ body {
   }
 }
 .cid-rtoVskMfvg .navbar.navbar-short {
-  background: #232323 !important;
+  background: #096693 !important;
   min-height: 60px;
 }
 .cid-rtoVskMfvg .navbar.navbar-short .navbar-logo img {
@@ -1559,7 +1559,7 @@ body {
   padding: 0.667em 1.667em;
 }
 .cid-rtoVskMfvg .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #232323;
+  background: #096693;
 }
 .cid-rtoVskMfvg .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -2141,11 +2141,11 @@ body {
 .cid-raaNZ3Ls5j .navbar {
   min-height: 77px;
   transition: all .3s;
-  background: #232323;
+  background: #096693;
 }
 .cid-raaNZ3Ls5j .navbar.opened {
   transition: all .3s;
-  background: #232323 !important;
+  background: #096693 !important;
 }
 .cid-raaNZ3Ls5j .navbar .dropdown-item {
   padding: .235rem 1.5rem;
@@ -2242,7 +2242,7 @@ body {
   }
 }
 .cid-raaNZ3Ls5j .navbar.navbar-short {
-  background: #232323 !important;
+  background: #096693 !important;
   min-height: 60px;
 }
 .cid-raaNZ3Ls5j .navbar.navbar-short .navbar-logo img {
@@ -2283,7 +2283,7 @@ body {
   padding: 0.667em 1.667em;
 }
 .cid-raaNZ3Ls5j .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #232323;
+  background: #096693;
 }
 .cid-raaNZ3Ls5j .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
